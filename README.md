@@ -1,8 +1,19 @@
-A simple but clean weather app with automatic location determination.
-Special features:
-Location API: a custom .Net Web API server which is used to
-process location data.
-UI/UX: clean, simple, and device-adaptive client web app.
-Weather API: integration with Open-Meteo API.
+# Weather App
 
-Deployment: https://weather-app-production-e420.up.railway.app
+A simple, clean weather application that automatically detects your location and displays current weather conditions.
+
+## ✨ Features
+
+- **Automatic Location Detection**  
+  Uses a custom **.NET Web API** server to process and resolve location data.
+
+- **Modern UI/UX**  
+  Clean, minimal, and fully responsive web client that adapts to different devices and screen sizes.
+
+- **Weather API Integration**  
+  Retrieves real-time weather data using the **Open-Meteo API**.
+
+## 🌍 Live Demo
+
+🔗 **Check it out here:**  
+https://weather-app-production-e420.up.railway.app
